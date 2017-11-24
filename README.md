@@ -1,7 +1,14 @@
 # gatsby-mini-default
 The mini Gatsby starter
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+Gatsby minimal starter, include these features:
+
+* Testing [WIP]
+    -   Jest
+    -   Enzyme
+* Styled components
+* Semantic ui react/css
+* Superagent
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 ```
