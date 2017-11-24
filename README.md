@@ -3,7 +3,7 @@ The mini Gatsby starter
 
 Gatsby minimal starter, include these features:
 
-* Testing [WIP]
+* Testing
     -   Jest
     -   Enzyme
 * Styled components
@@ -12,7 +12,7 @@ Gatsby minimal starter, include these features:
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 ```
-gatsby new https://github.com/PaulRosset/gatsby-mini-starter
+gatsby new . https://github.com/PaulRosset/gatsby-mini-starter
 ```
 
 ## Deploy
