@@ -4,6 +4,7 @@ import Link from "gatsby-link";
 import Helmet from "react-helmet";
 
 import "semantic-ui-css/semantic.min.css";
+import "./index.css";
 
 const Header = () => (
   <div
